@@ -1,6 +1,6 @@
 
 //Crea una lista de contactos con datos predefinidos, cada contacto debe contener el nombre 
-//y apellido como una sola cadena de caracteres
+//y apellido como una sola cadena de caracteres.
 
 let contactos =[
     "Jose Sol",
